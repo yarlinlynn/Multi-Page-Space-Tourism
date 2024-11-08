@@ -1,5 +1,4 @@
 Multi-Page Space Tourism Website
-Live site: https://space-tourism-website-multi-page.netlify.app/
 
 Mulit-page website using a design system, minimzing repeated code. 
 Responsive design utilizing javascript to allow user to toggle between buttons displaying different content across site.
